@@ -7,7 +7,7 @@ Live demo [here](https://jahs-es-react-loving-tabs.netlify.app)!
 # Technical aspects
  
 It's uses [SongSterr Api](https://www.songsterr.com/a/wa/api/) to get songs. Also uses hooks with debounce in order 
-to allow user cancel old request to API if criteria has changed before user types another search criteria.
+to allow user cancel old requests to API by typing a new search criteria.
 
 ## Available Scripts
 
