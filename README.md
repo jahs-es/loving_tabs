@@ -2,14 +2,12 @@
 
 A React project that allow user to search song's tabs by song's title or artist's name and gives access to them.
 
+Live demo [here](https://jahs-es-react-loving-tabs.netlify.app)! 
+
 # Technical aspects
  
 It's uses [SongSterr Api](https://www.songsterr.com/a/wa/api/) to get songs. Also uses hooks with debounce in order 
 to allow user cancel old request to API if criteria has changed before user types another search criteria.
-
-# Soon!
-  
-Live demo  
 
 ## Available Scripts
 
